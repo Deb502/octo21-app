@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://deb502.github.io/octo21-app/sitemap.xml
